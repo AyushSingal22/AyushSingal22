@@ -1,8 +1,8 @@
 ##   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="29"> Hi, I am Ayush! Glad to see you here!
 
-<img alt="Animated Cover" src="images/Ayush cover.gif"> </img>
+<img alt="Animated Cover" src="images/me.png"> </img>
 
-- 👋  Hi, I’m Ayszh Singal
+- 👋  Hi, I’m Ayush Singal
 - 🏫  I graduated with a B.Tech in Computer Science and Design from [IIIT Delhi](https://iiitd.ac.in).
 - 🄰  Working as SDE at [Adobe](https://www.adobe.com)
 - 👀  I am a tech enthusiast & an open-source advocate.
