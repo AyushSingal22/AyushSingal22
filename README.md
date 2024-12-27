@@ -1,6 +1,6 @@
 ##   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="29"> Hi, I am Ayush! Glad to see you here!
 
-<img alt="Animated Cover" src="images/me.png"> </img>
+<img alt="Animated Cover" src="me.png"> </img>
 
 - 👋  Hi, I’m Ayush Singal
 - 🏫  I graduated with a B.Tech in Computer Science and Design from [IIIT Delhi](https://iiitd.ac.in).
