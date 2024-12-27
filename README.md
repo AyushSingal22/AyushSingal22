@@ -1,8 +1,8 @@
-##   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="29"> Hi, I am Jaideep! Glad to see you here!
+##   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="29"> Hi, I am Ayush! Glad to see you here!
 
-<img alt="Animated Cover" src="images/Jaideep Guntupalli cover.gif"> </img>
+<img alt="Animated Cover" src="images/Ayush cover.gif"> </img>
 
-- 👋  Hi, I’m Jaideep Guntupalli.
+- 👋  Hi, I’m Aysuh Singal
 - 🏫  I graduated with a B.Tech in Computer Science and Design from [IIIT Delhi](https://iiitd.ac.in).
 - 👀  I am a tech enthusiast & an open-source advocate.
 - 🥅  My Goal for the next few months to try and contribute more to open source.
@@ -39,10 +39,9 @@
 
 ## 🤝 Connect with me:
 
-<a href="http://linkedin.jaideepguntupalli.com/"><img align="left" src="images/linkedin.png" alt="Jaideep Guntupalli | LinkedIn" width="42px"/></a>
-<a href="https://twitter.com/gjdeep"><img align="left" src="images/twitter.png" alt="Jaideep Guntupalli | Twitter" width="42px"/></a>
-<a href="https://blog.jaideepguntupalli.com"><img align="left" src="images/hashnode.png" alt="Jaideep Guntupalli | Hashnode" width="42px"/></a>
-<a href="https://app.daily.dev/gjdeep"><img align="left" src="images/dailydev.jpg" alt="Jaideep Guntupalli | DailyDev" width="42px"/></a>
+<a href="https://www.linkedin.com/in/ayush-singal-67911b20b/"><img align="left" src="images/linkedin.png" alt="Ayush Singal | LinkedIn" width="42px"/></a>
+<a href="https://x.com/Ayush__singal"><img align="left" src="images/twitter.png" alt="Ayush Singal | Twitter" width="42px"/></a>
+<a href="https://ssl.iiitd.edu.in/author/ayush-singal/"><img align="left" src="https://ssl.iiitd.edu.in/images/logo_hu2a553ff27e5d7cc2b5467f759e91a6a1_31080_0x70_resize_lanczos_3.png" alt="Ayush Singal | Space System Labs" width="42px"/></a>
 
 <br />
 <br />
@@ -59,6 +58,6 @@
 
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JaideepGuntupalli&count_private=true&theme=radical&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JaideepGuntupalli&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushsingal22&count_private=true&theme=radical&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushsingal22&theme=radical&count_private=true" />
 </p>
