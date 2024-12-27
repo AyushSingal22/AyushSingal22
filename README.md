@@ -1,13 +1,20 @@
 ##   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="29"> Hi, I am Ayush! Glad to see you here!
 
-<img alt="Animated Cover" src="me.png"> </img>
-
-- 👋  Hi, I’m Ayush Singal
-- 🏫  I graduated with a B.Tech in Computer Science and Design from [IIIT Delhi](https://iiitd.ac.in).
-- 🄰  Working as SDE at [Adobe](https://www.adobe.com)
-- 👀  I am a tech enthusiast & an open-source advocate.
-
-## 🛠 Tools I worked with:
+<table>
+  <tr>
+    <td>
+      <img alt="Animated Cover" src="me.png" style="width: 200px; height: 200px;">
+    </td>
+    <td>
+      <ul>
+        <li>👋 Hi, I’m Ayush Singal</li>
+        <li>🏫 I graduated with a B.Tech in Computer Science and Design from <a href="https://iiitd.ac.in">IIIT Delhi</a>.</li>
+        <li>🄰 Working as SDE at <a href="https://www.adobe.com">Adobe</a></li>
+        <li>👀 I am a tech enthusiast & an open-source advocate.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
