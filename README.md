@@ -2,11 +2,10 @@
 
 <img alt="Animated Cover" src="images/Ayush cover.gif"> </img>
 
-- 👋  Hi, I’m Aysuh Singal
+- 👋  Hi, I’m Ayszh Singal
 - 🏫  I graduated with a B.Tech in Computer Science and Design from [IIIT Delhi](https://iiitd.ac.in).
+- 🄰  Working as SDE at [Adobe](https://www.adobe.com)
 - 👀  I am a tech enthusiast & an open-source advocate.
-- 🥅  My Goal for the next few months to try and contribute more to open source.
-- ⚡ Fun fact: I love Formula One.
 
 ## 🛠 Tools I worked with:
 
@@ -44,7 +43,3 @@
 <a href="https://ssl.iiitd.edu.in/author/ayush-singal/"><img align="left" src="ssl.png" alt="Ayush Singal | Space System Labs" width="42px"/></a>
 
 <br />
-]
-
-
-]
